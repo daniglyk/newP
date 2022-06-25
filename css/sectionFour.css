@@ -1,0 +1,105 @@
+.leftAndRight {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.numbers {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 48px;
+
+background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), linear-gradient(89.97deg, #5748FF 19.47%, #873EFF 66.79%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+
+.words {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 19px;
+text-align: justify;
+color: #FFFFFF;
+width: 293px;
+height: 2rem;
+margin-top: 3.5rem;
+}
+
+.table {
+    width: 595px;
+height: 461px;
+background: #232323;
+border-radius: 30px;
+}
+
+.referal {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-left: 2rem;
+}
+
+.TableRL {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 2rem;
+}
+
+.tableRight {
+    margin-left: 2rem;
+}
+
+.invites {
+    font-family: 'Audiowide';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+text-align: justify;
+background: linear-gradient(89.97deg, #5748FF 19.47%, #873EFF 66.79%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+width: 324px;
+margin: 50% 50%;
+}
+
+.referalSystem {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 36px;
+background: linear-gradient(89.97deg, #5748FF 19.47%, #873EFF 110.15%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+width: 700px;
+}
+
+.TRYIT {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 24px;
+background: linear-gradient(89.97deg, #5748FF 19.47%, #873EFF 66.79%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+border: 4px solid #873EFF;
+border-radius: 5px;
+width: 350px;
+height:50px;
+}
